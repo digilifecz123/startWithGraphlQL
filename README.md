@@ -39,7 +39,7 @@ And then I read an [article from Peggy Rayzis](https://dev-blog.apollodata.com/r
 
 -  [Reducing our Redux code with React Apollo (Medium)](https://dev-blog.apollodata.com/reducing-our-redux-code-with-react-apollo-5091b9de9c2a) - Whaaaat? We can remove redux from our app? ... mindblowing
 
--  [How GraphQL Replaces Redux (Medium)](https://hackernoon.com/how-graphql-replaces-redux-3fff8289221d) - Whaaaat? We can remove redux from our app? ... mindblowing
+-  [How GraphQL Replaces Redux (Medium)](https://hackernoon.com/how-graphql-replaces-redux-3fff8289221d)
 
 ---
 
